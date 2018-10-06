@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Assets\css\bootstrap.min.css" />
+    <None Include="wwwroot\Assets\css\jquery-ui.css" />
+    <None Include="wwwroot\Assets\css\jquery.mCustomScrollbar.min.css" />
+    <None Include="wwwroot\Assets\css\style.css" />
+    <None Include="wwwroot\Assets\fonts\glyphicons-halflings-regular.eot" />
+    <None Include="wwwroot\Assets\fonts\glyphicons-halflings-regular.svg" />
+    <None Include="wwwroot\Assets\fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="wwwroot\Assets\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="wwwroot\Assets\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="wwwroot\Assets\img\logo.png" />
+    <None Include="wwwroot\Assets\js\bootstrap.min.js" />
+    <None Include="wwwroot\Assets\js\datepicker-tr.js" />
+    <None Include="wwwroot\Assets\js\jquery-1.10.2.min.js" />
+    <None Include="wwwroot\Assets\js\jquery-ui.js" />
+    <None Include="wwwroot\Assets\js\jquery.maskedinput.min.js" />
+    <None Include="wwwroot\Assets\js\jquery.mCustomScrollbar.concat.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Wirecard.DeveloperPortal.Core\Wirecard.DeveloperPortal.Core.csproj" />
+  </ItemGroup>
+
+</Project>
