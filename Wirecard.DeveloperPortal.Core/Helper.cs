@@ -19,10 +19,16 @@ namespace Wirecard.DeveloperPortal.Core
         /// <returns></returns>
         public static string ComputeHash(string hashString)
         {
-            System.Security.Cryptography.SHA1 sha = new System.Security.Cryptography.SHA1CryptoServiceProvider();
-            byte[] hashbytes = System.Text.Encoding.GetEncoding("ISO-8859-9").GetBytes(hashString);
-            byte[] inputbytes = sha.ComputeHash(hashbytes);
-            return Convert.ToBase64String(inputbytes);
+
+
+
+            return hashString;
+
+            //System.Security.Cryptography.SHA1 sha = new System.Security.Cryptography.SHA1CryptoServiceProvider();
+            //byte[] hashbytes = System.Text.Encoding.GetEncoding("ISO-8859-9").GetBytes(hashString);
+            //byte[] inputbytes = sha.ComputeHash(hashbytes);
+            //return Convert.ToBase64String(inputbytes);
+         
         }
 
     }

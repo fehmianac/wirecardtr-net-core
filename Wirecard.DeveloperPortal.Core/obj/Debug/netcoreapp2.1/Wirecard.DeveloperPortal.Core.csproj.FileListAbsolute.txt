@@ -1,0 +1,9 @@
+D:\wirecardgithub\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\bin\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.deps.json
+D:\wirecardgithub\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\bin\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.dll
+D:\wirecardgithub\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\bin\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.pdb
+D:\wirecardgithub\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.csprojAssemblyReference.cache
+D:\wirecardgithub\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.csproj.CoreCompileInputs.cache
+D:\wirecardgithub\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.AssemblyInfoInputs.cache
+D:\wirecardgithub\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.AssemblyInfo.cs
+D:\wirecardgithub\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.dll
+D:\wirecardgithub\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.pdb
