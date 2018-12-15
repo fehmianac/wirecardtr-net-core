@@ -12672,11 +12672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\wirecardgithub\\wirecardtr-net-core\\Wirecard.DeveloperPortal.WebSamples\\Wirecard.DeveloperPortal.WebSamples.csproj",
+      "projectUniqueName": "C:\\Users\\Codevist\\Desktop\\Wirecard-Dev-Github-Project\\wirecardtr-net-core\\Wirecard.DeveloperPortal.WebSamples\\Wirecard.DeveloperPortal.WebSamples.csproj",
       "projectName": "Wirecard.DeveloperPortal.WebSamples",
-      "projectPath": "D:\\wirecardgithub\\wirecardtr-net-core\\Wirecard.DeveloperPortal.WebSamples\\Wirecard.DeveloperPortal.WebSamples.csproj",
+      "projectPath": "C:\\Users\\Codevist\\Desktop\\Wirecard-Dev-Github-Project\\wirecardtr-net-core\\Wirecard.DeveloperPortal.WebSamples\\Wirecard.DeveloperPortal.WebSamples.csproj",
       "packagesPath": "C:\\Users\\Codevist\\.nuget\\packages\\",
-      "outputPath": "D:\\wirecardgithub\\wirecardtr-net-core\\Wirecard.DeveloperPortal.WebSamples\\obj\\",
+      "outputPath": "C:\\Users\\Codevist\\Desktop\\Wirecard-Dev-Github-Project\\wirecardtr-net-core\\Wirecard.DeveloperPortal.WebSamples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12695,8 +12695,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\wirecardgithub\\wirecardtr-net-core\\Wirecard.DeveloperPortal.Core\\Wirecard.DeveloperPortal.Core.csproj": {
-              "projectPath": "D:\\wirecardgithub\\wirecardtr-net-core\\Wirecard.DeveloperPortal.Core\\Wirecard.DeveloperPortal.Core.csproj"
+            "C:\\Users\\Codevist\\Desktop\\Wirecard-Dev-Github-Project\\wirecardtr-net-core\\Wirecard.DeveloperPortal.Core\\Wirecard.DeveloperPortal.Core.csproj": {
+              "projectPath": "C:\\Users\\Codevist\\Desktop\\Wirecard-Dev-Github-Project\\wirecardtr-net-core\\Wirecard.DeveloperPortal.Core\\Wirecard.DeveloperPortal.Core.csproj"
             }
           }
         }

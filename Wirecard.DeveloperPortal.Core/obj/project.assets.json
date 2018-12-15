@@ -1213,11 +1213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\wirecardgithub\\wirecardtr-net-core\\Wirecard.DeveloperPortal.Core\\Wirecard.DeveloperPortal.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Codevist\\Desktop\\Wirecard-Dev-Github-Project\\wirecardtr-net-core\\Wirecard.DeveloperPortal.Core\\Wirecard.DeveloperPortal.Core.csproj",
       "projectName": "Wirecard.DeveloperPortal.Core",
-      "projectPath": "D:\\wirecardgithub\\wirecardtr-net-core\\Wirecard.DeveloperPortal.Core\\Wirecard.DeveloperPortal.Core.csproj",
+      "projectPath": "C:\\Users\\Codevist\\Desktop\\Wirecard-Dev-Github-Project\\wirecardtr-net-core\\Wirecard.DeveloperPortal.Core\\Wirecard.DeveloperPortal.Core.csproj",
       "packagesPath": "C:\\Users\\Codevist\\.nuget\\packages\\",
-      "outputPath": "D:\\wirecardgithub\\wirecardtr-net-core\\Wirecard.DeveloperPortal.Core\\obj\\",
+      "outputPath": "C:\\Users\\Codevist\\Desktop\\Wirecard-Dev-Github-Project\\wirecardtr-net-core\\Wirecard.DeveloperPortal.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
