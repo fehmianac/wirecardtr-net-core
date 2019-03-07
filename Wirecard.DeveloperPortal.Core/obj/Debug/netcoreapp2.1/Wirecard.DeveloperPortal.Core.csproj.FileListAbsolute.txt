@@ -15,3 +15,12 @@ C:\Users\Codevist\Desktop\Wirecard-Dev-Github-Project\wirecardtr-net-core\Wireca
 C:\Users\Codevist\Desktop\Wirecard-Dev-Github-Project\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.AssemblyInfo.cs
 C:\Users\Codevist\Desktop\Wirecard-Dev-Github-Project\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.dll
 C:\Users\Codevist\Desktop\Wirecard-Dev-Github-Project\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.pdb
+D:\Projects\Wirecard Developer Portal Plugins\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\bin\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.deps.json
+D:\Projects\Wirecard Developer Portal Plugins\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\bin\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.dll
+D:\Projects\Wirecard Developer Portal Plugins\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\bin\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.pdb
+D:\Projects\Wirecard Developer Portal Plugins\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.csprojAssemblyReference.cache
+D:\Projects\Wirecard Developer Portal Plugins\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Wirecard Developer Portal Plugins\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.AssemblyInfoInputs.cache
+D:\Projects\Wirecard Developer Portal Plugins\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.AssemblyInfo.cs
+D:\Projects\Wirecard Developer Portal Plugins\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.dll
+D:\Projects\Wirecard Developer Portal Plugins\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.pdb
