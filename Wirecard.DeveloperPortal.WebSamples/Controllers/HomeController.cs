@@ -504,6 +504,43 @@ namespace Wirecard.DeveloperPortal.WebSamples.Controllers
             return View(paymentFormResponse);
         }
 
+        public ActionResult BinQuery()
+        {
+            return View();
+        }
+
+
+        /// <summary>
+        /// Yeni bir Pazaryeri oluşturulması için kullanılan metoddur.
+        /// Pazaryeri oluşturulduktan sonra response değeri olarak SubPartnerId değeri bize gönderilir.
+        /// </summary>
+        /// <param name="subPartnerType"></param>
+        /// <param name="name"></param>
+        /// <param name="mobilePhoneNumber"></param>
+        /// <param name="identityNumber"></param>
+        /// <returns></returns>
+        [HttpPost]
+        public ActionResult BinQuery(string bin)
+        {
+            BinQueryRequest request = new BinQueryRequest();
+            request.ServiceType = "MerchantQueries";
+            request.OperationType = "BinQueryOperation";
+            request.BIN = bin;
+           
+
+            #region Token Bilgileri
+            request.Token = new Token();
+            request.Token.UserCode = settings.UserCode;
+            request.Token.Pin = settings.Pin;
+            #endregion
+
+            var response = BinQueryRequest.Execute(request, settings);
+
+            ServicesXmlResponse responseMessage = new ServicesXmlResponse();
+
+            responseMessage.XmlResponse = response;
+            return View(responseMessage);
+        }
 
         //Market Place
         public ActionResult MarketPlaceAddSubPartner()

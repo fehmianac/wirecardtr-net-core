@@ -12672,11 +12672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Wirecard Developer Portal Plugins\\wirecardtr-net-core\\Wirecard.DeveloperPortal.WebSamples\\Wirecard.DeveloperPortal.WebSamples.csproj",
+      "projectUniqueName": "D:\\Projects\\WirecardDeveloperPortalPlugins\\wirecardtr-net-core\\Wirecard.DeveloperPortal.WebSamples\\Wirecard.DeveloperPortal.WebSamples.csproj",
       "projectName": "Wirecard.DeveloperPortal.WebSamples",
-      "projectPath": "D:\\Projects\\Wirecard Developer Portal Plugins\\wirecardtr-net-core\\Wirecard.DeveloperPortal.WebSamples\\Wirecard.DeveloperPortal.WebSamples.csproj",
+      "projectPath": "D:\\Projects\\WirecardDeveloperPortalPlugins\\wirecardtr-net-core\\Wirecard.DeveloperPortal.WebSamples\\Wirecard.DeveloperPortal.WebSamples.csproj",
       "packagesPath": "C:\\Users\\Codevist\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Wirecard Developer Portal Plugins\\wirecardtr-net-core\\Wirecard.DeveloperPortal.WebSamples\\obj\\",
+      "outputPath": "D:\\Projects\\WirecardDeveloperPortalPlugins\\wirecardtr-net-core\\Wirecard.DeveloperPortal.WebSamples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12695,8 +12695,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Projects\\Wirecard Developer Portal Plugins\\wirecardtr-net-core\\Wirecard.DeveloperPortal.Core\\Wirecard.DeveloperPortal.Core.csproj": {
-              "projectPath": "D:\\Projects\\Wirecard Developer Portal Plugins\\wirecardtr-net-core\\Wirecard.DeveloperPortal.Core\\Wirecard.DeveloperPortal.Core.csproj"
+            "D:\\Projects\\WirecardDeveloperPortalPlugins\\wirecardtr-net-core\\Wirecard.DeveloperPortal.Core\\Wirecard.DeveloperPortal.Core.csproj": {
+              "projectPath": "D:\\Projects\\WirecardDeveloperPortalPlugins\\wirecardtr-net-core\\Wirecard.DeveloperPortal.Core\\Wirecard.DeveloperPortal.Core.csproj"
             }
           }
         }
