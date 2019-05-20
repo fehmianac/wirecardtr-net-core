@@ -612,6 +612,41 @@ namespace Wirecard.DeveloperPortal.WebSamples.Controllers
             return View(responseMessage);
         }
 
+        public ActionResult MarketPlaceCreateSubPartner()
+        {
+            return View();
+        }
+        /// <summary>
+        /// Pazaryerinin güncellenmesi için kullanılır.
+        /// Pazaryerinin güncellenmesi için pazaryeri oluşturulduğunda response değeri olarak verilen SubPartnerId değerinin gönderilmesi gerekmektedir.
+        /// </summary>
+        /// <param name="subPartnerType"></param>
+
+        /// <returns></returns>
+        [HttpPost]
+        public ActionResult MarketPlaceCreateSubPartner(SubPartnerTypeWithIdEnum subPartnerType)
+        {
+            MarketPlaceCreateRequest request = new MarketPlaceCreateRequest();
+            request.ServiceType = "WDTicket";
+            request.OperationType = "CreateSPRegistrationURL";
+            request.UniqueId = 5000;
+            request.SubPartnerType = (int)subPartnerType;
+            
+            #region Token Bilgileri
+            request.Token = new Token();
+            request.Token.UserCode = settings.UserCode;
+            request.Token.Pin = settings.Pin;
+
+            #endregion
+
+            var response = MarketPlaceCreateRequest.Execute(request, settings);
+
+            ServicesXmlResponse responseMessage = new ServicesXmlResponse();
+            responseMessage.XmlResponse = response;
+            return View(responseMessage);
+        }
+
+
         public ActionResult MarketPlaceUpdateSubPartner()
         {
             return View();

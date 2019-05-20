@@ -82,7 +82,7 @@ using Newtonsoft.Json;
             WriteLiteral("\r\n<h2>Bilgi Sms\'i Gönderim Servisi</h2>\r\n<hr/>\r\n");
             EndContext();
             BeginContext(196, 1291, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3a2120183c23402bb368490424498346", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "36528f59089749e0b088285b412b6eb9", async() => {
                 BeginContext(226, 960, true);
                 WriteLiteral(@"
 
@@ -163,7 +163,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(1514, 61, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "497daf027d6e4a44a743547b1bf6ab2a", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0ff3489356da404d900a75447a314f81", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

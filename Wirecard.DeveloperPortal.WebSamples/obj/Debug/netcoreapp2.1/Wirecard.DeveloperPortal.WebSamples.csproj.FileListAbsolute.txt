@@ -235,3 +235,4 @@ D:\Projects\WirecardDeveloperPortalPlugins\wirecardtr-net-core\Wirecard.Develope
 D:\Projects\WirecardDeveloperPortalPlugins\wirecardtr-net-core\Wirecard.DeveloperPortal.WebSamples\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.WebSamples.dll
 D:\Projects\WirecardDeveloperPortalPlugins\wirecardtr-net-core\Wirecard.DeveloperPortal.WebSamples\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.WebSamples.pdb
 D:\Projects\WirecardDeveloperPortalPlugins\wirecardtr-net-core\Wirecard.DeveloperPortal.WebSamples\obj\Debug\netcoreapp2.1\Razor\Views\Home\BinQuery.g.cshtml.cs
+D:\Projects\WirecardDeveloperPortalPlugins\wirecardtr-net-core\Wirecard.DeveloperPortal.WebSamples\obj\Debug\netcoreapp2.1\Razor\Views\Home\MarketPlaceCreateSubPartner.g.cshtml.cs

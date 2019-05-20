@@ -54,7 +54,7 @@ using Wirecard.DeveloperPortal.WebSamples.Models;
             WriteLiteral("<!DOCTYPE html>\r\n<html>\r\n");
             EndContext();
             BeginContext(25, 100, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bcd09cb06f064a75b5dfd31b191f3730", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f9c053d0fbe143d3b5b85770d10cd7a2", async() => {
                 BeginContext(31, 87, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>Error</title>\r\n");
                 EndContext();
@@ -74,7 +74,7 @@ using Wirecard.DeveloperPortal.WebSamples.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(127, 136, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a180db90c2244f9b92041aea91eae24e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0f3e4e207a3c49dabf4faa01b17d367e", async() => {
                 BeginContext(133, 123, true);
                 WriteLiteral("\r\n    <hgroup>\r\n        <h1>Error.</h1>\r\n        <h2>An error occurred while processing your request.</h2>\r\n    </hgroup>\r\n");
                 EndContext();

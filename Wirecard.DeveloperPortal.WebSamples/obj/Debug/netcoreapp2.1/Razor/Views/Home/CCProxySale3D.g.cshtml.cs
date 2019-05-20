@@ -84,7 +84,7 @@ using Wirecard.DeveloperPortal.WebSamples.Models;
             WriteLiteral("a &nbsp;:  &nbsp;</label>Ödeme işleminin tanımı <br>\r\n    <label style=\"font-weight:bold;\">Ekstra Parametre &nbsp;:  &nbsp;</label>Bu alanın boş olarak gönderilmesi gerekmektedir. <br>\r\n\r\n\r\n</fieldset>\r\n\r\n");
             EndContext();
             BeginContext(1341, 2653, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1f436c19265f43e4a87dc50116dca090", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5cb839817c244372984f10531c22ffeb", async() => {
                 BeginContext(1395, 1639, true);
                 WriteLiteral(@"
     <fieldset>
@@ -125,7 +125,7 @@ using Wirecard.DeveloperPortal.WebSamples.Models;
                     ");
                 EndContext();
                 BeginContext(3034, 32, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7bf35c4b610d4f77943852b9d1115078", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5b43576470524a15bfea50fe10e15fff", async() => {
                     BeginContext(3052, 5, true);
                     WriteLiteral("Peşin");
                     EndContext();
@@ -147,7 +147,7 @@ using Wirecard.DeveloperPortal.WebSamples.Models;
                 WriteLiteral("\r\n                    ");
                 EndContext();
                 BeginContext(3088, 28, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e92f5e5b4a3c4b779c2dfc0cdd0c5de0", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7611d58c0f25479a9e36902b6005aa31", async() => {
                     BeginContext(3106, 1, true);
                     WriteLiteral("3");
                     EndContext();
@@ -169,7 +169,7 @@ using Wirecard.DeveloperPortal.WebSamples.Models;
                 WriteLiteral("\r\n                    ");
                 EndContext();
                 BeginContext(3138, 28, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ce402d3dd7354348a929c70b45430cdc", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f9b6393276ee4377b51d14c9dab55ba6", async() => {
                     BeginContext(3156, 1, true);
                     WriteLiteral("6");
                     EndContext();
@@ -191,7 +191,7 @@ using Wirecard.DeveloperPortal.WebSamples.Models;
                 WriteLiteral("\r\n                    ");
                 EndContext();
                 BeginContext(3188, 28, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "570b40f66b634d1da5f8c1fcbb24f70b", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4ce8978ff72f440ea976dc640eda2255", async() => {
                     BeginContext(3206, 1, true);
                     WriteLiteral("9");
                     EndContext();
@@ -221,7 +221,7 @@ using Wirecard.DeveloperPortal.WebSamples.Models;
                     ");
                 EndContext();
                 BeginContext(3499, 32, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "da18d15969e742438317b5e476366caf", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18a0685abcce4a0f9f0a0067272c669e", async() => {
                     BeginContext(3519, 3, true);
                     WriteLiteral("TRY");
                     EndContext();
@@ -243,7 +243,7 @@ using Wirecard.DeveloperPortal.WebSamples.Models;
                 WriteLiteral("\r\n                    ");
                 EndContext();
                 BeginContext(3553, 32, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a0124354b6af4d558857bc9b280ce59a", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6cff5ec86fc642f0a3ed08bfd833eb34", async() => {
                     BeginContext(3573, 3, true);
                     WriteLiteral("USD");
                     EndContext();
@@ -265,7 +265,7 @@ using Wirecard.DeveloperPortal.WebSamples.Models;
                 WriteLiteral("\r\n                    ");
                 EndContext();
                 BeginContext(3607, 32, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ee16a9ac61cf403ead03cfd91a65f3ce", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24a4023470da4e179f9c238ad3a1f598", async() => {
                     BeginContext(3627, 3, true);
                     WriteLiteral("EUR");
                     EndContext();

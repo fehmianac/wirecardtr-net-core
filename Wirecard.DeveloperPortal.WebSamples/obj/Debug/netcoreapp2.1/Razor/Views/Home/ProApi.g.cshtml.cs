@@ -99,7 +99,7 @@ using Newtonsoft.Json;
             WriteLiteral("<h2>Pro Api Yöntemi İle Ödeme </h2>\r\n<hr/>\r\n<p>\r\n    ");
             EndContext();
             BeginContext(179, 3356, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d2db6b43d37748a4a7fcb4b876e8cbbf", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "25be9ee365624a68a5a419eb45e78398", async() => {
                 BeginContext(209, 1019, true);
                 WriteLiteral(@"
         <table class=""table"">
@@ -144,7 +144,7 @@ using Newtonsoft.Json;
             ");
                 EndContext();
                 BeginContext(1228, 36, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "538019db41f8460c9f35f18821ed4ff5", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5f042b18573642248a90571a8098969d", async() => {
                     BeginContext(1246, 9, true);
                     WriteLiteral("Tek Çekim");
                     EndContext();
@@ -166,7 +166,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1278, 83, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "89a0427e4b674f76bebc37149df5c58b", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a6f7920deccb40afb8136c67ed294ede", async() => {
                     BeginContext(1296, 56, true);
                     WriteLiteral("Aylık abonelik (iletilen miktar her ay otomatik çekilir)");
                     EndContext();
@@ -188,7 +188,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1375, 89, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9fdb80bcfbe74ee98d2b43a7dcbde34a", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "525f133c23014571aba2a3bfc376ec1b", async() => {
                     BeginContext(1393, 62, true);
                     WriteLiteral("Haftalık abonelik (iletilen miktar her hafta otomatik çekilir)");
                     EndContext();
@@ -210,7 +210,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1478, 46, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "95315f6d4ce4405c97a699432649f34d", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9c8ab2f33ea24aa4b0b7a7a18ea89c81", async() => {
                     BeginContext(1496, 19, true);
                     WriteLiteral("2 haftalık abonelik");
                     EndContext();
@@ -232,7 +232,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1538, 43, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "735e5fc11cc144f5a98bad3f76dcc6d6", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "69227a8f48b64390ae63031d6d56c654", async() => {
                     BeginContext(1556, 16, true);
                     WriteLiteral("3 aylık abonelik");
                     EndContext();
@@ -254,7 +254,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1595, 43, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ffd92f30c0ec4fa78f98df3994ce626c", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fc04941ca49141299e06dca4458d890d", async() => {
                     BeginContext(1613, 16, true);
                     WriteLiteral("6 aylık abonelik");
                     EndContext();
@@ -276,7 +276,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1652, 73, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "27bd4e8eb3f2472192ebae79f447a058", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "951c79f096164d0fbf9a92122b12a5ea", async() => {
                     BeginContext(1670, 46, true);
                     WriteLiteral("Aylık denemeli (ilk ay ücretlendirme yapılmaz)");
                     EndContext();
@@ -298,7 +298,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1739, 79, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3cf5116344ea44bca881d30cd7d1aaf7", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "92a40ec489fa4fe581ecb1e234d4083a", async() => {
                     BeginContext(1757, 52, true);
                     WriteLiteral("Haftalık denemeli (ilk hafta ücretlendirme yapılmaz)");
                     EndContext();
@@ -320,7 +320,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1832, 83, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff4fd017c9534dc982a1ee5853b0c43b", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9ede0353e24d4785af9cb501229ec66d", async() => {
                     BeginContext(1850, 56, true);
                     WriteLiteral("2 haftalık denemeli (ilk 2 hafta ücretlendirme yapılmaz)");
                     EndContext();
@@ -342,7 +342,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1929, 44, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f5e42193a2eb49c9b3eb78c7e148109d", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0e3ed60a2827489d99f6c6bfa588e907", async() => {
                     BeginContext(1948, 16, true);
                     WriteLiteral("3 aylık denemeli");
                     EndContext();
@@ -364,7 +364,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1987, 44, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1f1db2494c744621825c827d71050dda", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "60b08c23d5614b1ca84e12e85fd81794", async() => {
                     BeginContext(2006, 16, true);
                     WriteLiteral("6 aylık denemeli");
                     EndContext();
@@ -386,7 +386,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(2045, 37, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eab0824061ab480cb47e3498891458c0", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c218a0dee4ca4543bdb34e4fb4b04d8a", async() => {
                     BeginContext(2064, 9, true);
                     WriteLiteral("30 günlük");
                     EndContext();
@@ -408,7 +408,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(2096, 43, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5a42a5d56aed4689bef8ed56c1aa52b8", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "aeeee3cc6699481284fdaca4d73aef49", async() => {
                     BeginContext(2115, 15, true);
                     WriteLiteral("Günlük abonelik");
                     EndContext();
@@ -430,7 +430,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n        </select>\r\n        <br />\r\n        <br />\r\n        \r\n        Ürün Kategorisi: \r\n        <br />\r\n        <select name=\"productCategoryId\">\r\n            ");
                 EndContext();
                 BeginContext(2300, 40, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "82bf0d49c46a48e4a176bf4bfba7b360", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2653a03d1c224a7e87145ee3a258b886", async() => {
                     BeginContext(2318, 13, true);
                     WriteLiteral("Fiziksel Ürün");
                     EndContext();
@@ -452,7 +452,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(2354, 31, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b873b49dfd64426f842733cadf9ee259", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e119fea60a6e4665ad24384d1c7c00ed", async() => {
                     BeginContext(2372, 4, true);
                     WriteLiteral("Oyun");
                     EndContext();
@@ -474,7 +474,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(2399, 41, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6cdd738b799346b698fb62ae3dd14388", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "32352b7abf424644b6b0d8a341bfd5a5", async() => {
                     BeginContext(2417, 14, true);
                     WriteLiteral("Dijital İçerik");
                     EndContext();
@@ -496,7 +496,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(2454, 34, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9099de5a92fb4382a2870979387432c3", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e9040347ee554f0ea17685bc1cfd77ac", async() => {
                     BeginContext(2472, 7, true);
                     WriteLiteral("Servis ");
                     EndContext();
@@ -518,7 +518,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(2502, 48, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6e497c45c96e4b0c830cc4e081860d0f", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5386375d68c9488da9743b473b67dfbc", async() => {
                     BeginContext(2520, 21, true);
                     WriteLiteral("Sosyal Ağ/Arkadaşlık ");
                     EndContext();
@@ -540,7 +540,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(2564, 40, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8d34d3e3e061402281df6f3e610db71c", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "be70033ff29948638d4531d56fb79748", async() => {
                     BeginContext(2582, 13, true);
                     WriteLiteral("Aidat/Otomat ");
                     EndContext();
@@ -562,7 +562,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(2618, 33, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ce060af7adf64ded99658c3ef5ed83c3", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4aa086857dcc47168b679bd5ca340068", async() => {
                     BeginContext(2636, 6, true);
                     WriteLiteral("Bahis ");
                     EndContext();
@@ -584,7 +584,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(2665, 35, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "12228fbcf5b3457a85061ed54c3f00e0", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1991146f9917442eb2e65c3398450152", async() => {
                     BeginContext(2683, 8, true);
                     WriteLiteral("Sigorta ");
                     EndContext();
@@ -606,7 +606,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(2714, 52, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1fa49241a4534031ba9aeb8b3c7abac3", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24e1ea40dcf5489589b61af42d2ce437", async() => {
                     BeginContext(2733, 24, true);
                     WriteLiteral("Kamu - bilet - fastfood ");
                     EndContext();
@@ -628,7 +628,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(2780, 40, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "29a4bfa6438c4422bd29dd1a9a015cf9", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "828ca5da353243d193a4c9f9fd06aa08", async() => {
                     BeginContext(2799, 12, true);
                     WriteLiteral("Cep Sigorta ");
                     EndContext();
@@ -650,7 +650,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(2834, 38, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "116b880510b243f09a85b5ff9b8d4355", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2ee033c569f54b828c19459be5104299", async() => {
                     BeginContext(2853, 10, true);
                     WriteLiteral("Kutu Oyun ");
                     EndContext();
@@ -672,7 +672,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(2886, 58, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "05d4aa68b2bc437f8abc5676bf08ba63", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8448c503a81445dca0a39602092b83ec", async() => {
                     BeginContext(2905, 30, true);
                     WriteLiteral("Mobil Uygulama / Mobil Market ");
                     EndContext();
@@ -694,7 +694,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(2958, 35, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d0dd60a4ff4f4bacbac828c82ce64973", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4186fb670344403c8bc3b8ac97b8b385", async() => {
                     BeginContext(2977, 7, true);
                     WriteLiteral("Eğitim ");
                     EndContext();
@@ -716,7 +716,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(3007, 86, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "19b0f8a0332f4f308af725fc0d9fd984", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "48f2e3681a4a487188e84c228f1f45b3", async() => {
                     BeginContext(3026, 58, true);
                     WriteLiteral("Bağış (sadece Turkcell aboneleri bağış ödemesi yapabilir) ");
                     EndContext();
@@ -738,7 +738,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(3107, 35, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c24266c93c9b4527bec155375d38b23e", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "524f7c6e97164746991e984a401b7f00", async() => {
                     BeginContext(3126, 7, true);
                     WriteLiteral("Sağlık ");
                     EndContext();
@@ -760,7 +760,7 @@ using Newtonsoft.Json;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(3156, 46, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "957aad156b734e678a76eef1af1bbd43", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "768c12f4c663469ca30ec3831079c07e", async() => {
                     BeginContext(3175, 18, true);
                     WriteLiteral("White Label Adult ");
                     EndContext();

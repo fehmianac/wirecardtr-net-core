@@ -83,7 +83,7 @@ using SaleService;
             WriteLiteral("<h2>TransactionQueryByMPAY</h2>\r\n<br />\r\n");
             EndContext();
             BeginContext(223, 776, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b07cac05a3a5411caa03173add0ac9c8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "64a8f1b6db9c4441810396940b763b02", async() => {
                 BeginContext(277, 715, true);
                 WriteLiteral(@"
     <fieldset>
