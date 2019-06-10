@@ -44,7 +44,10 @@ namespace Wirecard.DeveloperPortal.Core.Request
         [XmlElement("CardTokenization")]
         public CardTokenization CardTokenization { get; set; }
 
-
+        [XmlElement("CustomerInfo")]
+        public CustomerInfo CustomerInfo { get; set; }
+        [XmlElement("Language")]
+        public string Language { get; set; }
 
         public static string Execute(CCProxySale3DRequest request, Settings options)
         {

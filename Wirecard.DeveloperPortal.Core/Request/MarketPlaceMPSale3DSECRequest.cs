@@ -40,6 +40,10 @@ namespace Wirecard.DeveloperPortal.Core.Request
 
         [XmlElement("PaymentContent")]
         public string PaymentContent { get; set; }
+        [XmlElement("CustomerInfo")]
+        public CustomerInfo CustomerInfo { get; set; }
+        [XmlElement("Language")]
+        public string Language { get; set; }
 
         public static string Execute(MarketPlaceMPSale3DSECRequest request, Settings options)
         {
