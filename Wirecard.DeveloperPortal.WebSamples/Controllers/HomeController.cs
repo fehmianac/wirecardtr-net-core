@@ -463,6 +463,7 @@ namespace Wirecard.DeveloperPortal.WebSamples.Controllers
             request.PaymentContent = "Bilgisayar";
             request.Description = "BLGSYR01";
             request.PaymentTypeId = 1;
+            request.InstallmentOptions = 0;
             request.Token = new Token();
             request.Token.Pin = base.settings.Pin;
             request.Token.UserCode = base.settings.UserCode;
@@ -516,6 +517,7 @@ namespace Wirecard.DeveloperPortal.WebSamples.Controllers
             request.ExtraParam = "";
             request.PaymentContent = "Bilgisayar";
             request.PaymentTypeId = 1;
+            request.InstallmentOptions = 0;
             request.Token = new Token();
             request.Token.Pin = settings.Pin;
             request.Token.UserCode = settings.UserCode;
