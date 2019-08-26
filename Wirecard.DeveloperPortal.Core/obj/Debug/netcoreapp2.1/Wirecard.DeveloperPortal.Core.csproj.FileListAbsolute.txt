@@ -33,3 +33,12 @@ D:\Projects\WirecardDeveloperPortalPlugins\wirecardtr-net-core\Wirecard.Develope
 D:\Projects\WirecardDeveloperPortalPlugins\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.AssemblyInfo.cs
 D:\Projects\WirecardDeveloperPortalPlugins\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.dll
 D:\Projects\WirecardDeveloperPortalPlugins\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.pdb
+C:\Projects\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\bin\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.deps.json
+C:\Projects\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\bin\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.dll
+C:\Projects\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\bin\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.pdb
+C:\Projects\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.csprojAssemblyReference.cache
+C:\Projects\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.csproj.CoreCompileInputs.cache
+C:\Projects\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.AssemblyInfoInputs.cache
+C:\Projects\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.AssemblyInfo.cs
+C:\Projects\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.dll
+C:\Projects\wirecardtr-net-core\Wirecard.DeveloperPortal.Core\obj\Debug\netcoreapp2.1\Wirecard.DeveloperPortal.Core.pdb
